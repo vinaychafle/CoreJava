@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="112" started-at="2023-03-16T06:36:50Z" finished-at="2023-03-16T06:36:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="112" started-at="2023-03-16T06:36:50Z" finished-at="2023-03-16T06:36:50Z">
+      <class name="javastreams.StreamsDemo">
+        <test-method status="PASS" signature="ArrayDemo1()[pri:0, instance:javastreams.StreamsDemo@4590c9c3]" name="ArrayDemo1" duration-ms="3" started-at="2023-03-16T12:06:50Z" finished-at="2023-03-16T12:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArrayDemo1 -->
+        <test-method status="PASS" signature="stream2Map()[pri:0, instance:javastreams.StreamsDemo@4590c9c3]" name="stream2Map" duration-ms="63" started-at="2023-03-16T12:06:50Z" finished-at="2023-03-16T12:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stream2Map -->
+        <test-method status="PASS" signature="streamcollect()[pri:0, instance:javastreams.StreamsDemo@4590c9c3]" name="streamcollect" duration-ms="0" started-at="2023-03-16T12:06:50Z" finished-at="2023-03-16T12:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamcollect -->
+        <test-method status="PASS" signature="testStream()[pri:0, instance:javastreams.StreamsDemo@4590c9c3]" name="testStream" duration-ms="15" started-at="2023-03-16T12:06:50Z" finished-at="2023-03-16T12:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStream -->
+      </class> <!-- javastreams.StreamsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
